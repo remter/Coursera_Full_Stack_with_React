@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "This is a test project",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "author": "Krishna Addanki",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remter/Coursera_Full_Stack_with_React.git"
+  },
+  "bugs": {
+    "url": "https://github.com/remter/Coursera_Full_Stack_with_React/issues"
+  },
+  "homepage": "https://github.com/remter/Coursera_Full_Stack_with_React#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+  
+}
